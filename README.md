@@ -29,7 +29,7 @@ This project was made for learning game development concepts such as grid-based 
 3. Use keyboard controls to play:
 
    - **Arrow Keys / W A S D** → Move Pac-Man  
-   - **R** → Restart after Game Over  
+   - **Enter** → Restart after Game Over  
 
 ---
 
