@@ -2,6 +2,7 @@
 
 A simple Pac-Man clone built using **HTML5 Canvas** and **JavaScript**.  
 This project was made for learning game development concepts such as grid-based movement, collision detection, and event handling.
+Click and Play! ----> https://sally-ctrl.github.io/Pac-man/
 
 ---
 
